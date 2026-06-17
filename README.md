@@ -36,6 +36,11 @@ A Simple guide to managing files and directories in Linux with examples and expl
 
 ---
 
+[#Linux](https://github.com/topics/linux)
+[#CAgent_47](https://github.com/topics/CAgent47)
+
+---
+
 # Author
 Created by **CAgent_47**
 
