@@ -49,7 +49,12 @@ This repo is for:
 
 ## 🐧 Topics
 
-`linux` • `bash` • `cli` • `dev-tools` • `cheatsheet`
+[#cheatsheet](https://github.com/topics/cheatsheet) •
+[#dev-tools](https://github.com/topics/dev-tools) •
+[#CLI](https://github.com/topics/cli) •
+[#Bash](https://github.com/topics/bash) •
+[#Linux](https://github.com/topics/linux) •
+[#CAgent_47](https://github.com/topics/CAgent47) •
 
 ---
 
